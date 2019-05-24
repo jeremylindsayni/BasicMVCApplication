@@ -16,6 +16,9 @@
     },
     "edition": {
       "value": "Basic"
+    },
+    "websitename": {
+      "value": "MyStandardWebName"
     }
   }
 }
